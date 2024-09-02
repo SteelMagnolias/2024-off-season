@@ -86,6 +86,7 @@ public class odometryOnly extends LinearOpMode {
                     //if(pose[#] >= or <= # of centimeters or # of degrees){
                     //movement type (0)
                     step++;
+                    //}
                     break;
                 default:
                     drive(0, 0,0,0);

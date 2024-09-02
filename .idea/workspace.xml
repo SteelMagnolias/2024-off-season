@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d33905f8-1539-4c8c-8a04-424f3b044f0f" name="Changes" comment="" />
+    <list default="true" id="d33905f8-1539-4c8c-8a04-424f3b044f0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/auton/odometryOnly.java" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/auton/odometryOnly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/telyOp/driveWheelsOnly.java" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController-9.2/FtcRobotController-9.2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/telyOp/driveWheelsOnly.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,39 +26,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VeronicaL1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VeronicaL1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SteelMagnolias/2024-off-season/",
-    "accountId": "d6d6f393-3faa-49a3-b405-b612faca2269"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SteelMagnolias/2024-off-season/&quot;,
+    &quot;accountId&quot;: &quot;d6d6f393-3faa-49a3-b405-b612faca2269&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2j7H4Ekl6MW6xWJdeF5x19VADez" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vrlue/StudioProjects/2024-off-season/FtcRobotController-9.2/FtcRobotController-9.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vrlue/StudioProjects/2024-off-season/FtcRobotController-9.2/FtcRobotController-9.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
